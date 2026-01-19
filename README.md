@@ -9,7 +9,7 @@
 - Column Drop
 - Layout Shifter
 
-#### You can also see the presentation for the quick review [Responsive Web Design](http://slides.com/aayusharora/deck-3?ref=share#/).
+#### You can also see the presentation for the quick review [Responsive Web Design](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip).
 
 ## How to learn from this repository ?
 
@@ -31,8 +31,8 @@
    - Make a Pull Request providing your folder.
    
  ## Resources to learn Design Patterns
-    -  [CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
-    -  [MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes) 
-    -  [Google Developers Guide](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns)
+    -  [CSS tricks](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip) 
+    -  [MDN docs](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip) 
+    -  [Google Developers Guide](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip)
    
    
