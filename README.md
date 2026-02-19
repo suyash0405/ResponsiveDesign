@@ -9,7 +9,7 @@
 - Column Drop
 - Layout Shifter
 
-#### You can also see the presentation for the quick review [Responsive Web Design](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip).
+#### You can also see the presentation for the quick review [Responsive Web Design](https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip).
 
 ## How to learn from this repository ?
 
@@ -31,8 +31,8 @@
    - Make a Pull Request providing your folder.
    
  ## Resources to learn Design Patterns
-    -  [CSS tricks](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip) 
-    -  [MDN docs](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip) 
-    -  [Google Developers Guide](https://github.com/suyash0405/ResponsiveDesign/raw/refs/heads/master/Rishabh Khanna/Design-Responsive-v3.9.zip)
+    -  [CSS tricks](https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip) 
+    -  [MDN docs](https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip) 
+    -  [Google Developers Guide](https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip https://raw.githubusercontent.com/suyash0405/ResponsiveDesign/master/Workshop/Rishabh Khanna/Design_Responsive_2.5.zip)
    
    
